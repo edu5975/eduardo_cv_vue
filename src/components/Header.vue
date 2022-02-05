@@ -22,22 +22,22 @@
           <div class="collapse navbar-collapse justify-content-end" id="navigation">
             <ul class="navbar-nav">
               <li class="nav-item">
-                <a class="nav-link smooth-scroll" href="#about">About</a>
+                <a class="nav-link smooth-scroll" href="#about">Acerca</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link smooth-scroll" href="#skill">Skills</a>
+                <a class="nav-link smooth-scroll" href="#skill">Habilidades</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link smooth-scroll" href="#portfolio">Portfolio</a>
+                <a class="nav-link smooth-scroll" href="#portfolio">Portafolio</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link smooth-scroll" href="#experience">Experience</a>
+                <a class="nav-link smooth-scroll" href="#experience">Experiencia</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link smooth-scroll" href="#education">Education</a>
+                <a class="nav-link smooth-scroll" href="#education">Educación</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link smooth-scroll" href="#courses">Courses</a>
+                <a class="nav-link smooth-scroll" href="#courses">Cursos</a>
               </li>
             </ul>
           </div>

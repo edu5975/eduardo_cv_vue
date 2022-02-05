@@ -14,14 +14,14 @@
             </div>
             <div class="h2 title">Eduardo Daniel Rico Gómez</div>
             <p class="category text-white">
-              Systems engineering, Web Developer, Mobile Developer
+              Ingeniero en Sistemas Computacionales
             </p>
             <a
                 class="btn btn-primary smooth-scroll mr-2"
                 href="mailto:edu.dan68@gmail.com"
                 data-aos="zoom-in"
                 data-aos-anchor="data-aos-anchor"
-            >Contact me</a>
+            >Contáctame</a>
           </div>
         </div>
 
@@ -56,28 +56,28 @@ export default {
           id:1,
           name:'linkedin',
           href:'https://www.linkedin.com/in/edu5975/',
-          title:'Follow me on LinkedIn',
+          title:'Sígueme en LinkedIn',
           icon:'fa-linkedin'
         },
         {
           id:2,
           name:'github',
           href:'https://github.com/edu5975',
-          title:'Follow me on GitHub',
+          title:'Sígueme en GitHub',
           icon:'fa-github'
         },
         {
           id:3,
           name:'facebook',
           href:'https://www.facebook.com/edu5975/',
-          title:'Follow me on Facebook',
+          title:'Sígueme en Facebook',
           icon:'fa-facebook'
         },
         {
           id:4,
           name:'instagram',
           href:'https://www.instagram.com/edu5975x/',
-          title:'Follow me on Instagram',
+          title:'Sígueme en Instagram',
           icon:'fa-instagram'
         }
       ]

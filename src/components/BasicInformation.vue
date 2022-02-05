@@ -5,26 +5,23 @@
         <div class="row">
           <div class="col-lg-5 col-md-12">
             <div class="card-body">
-              <div class="h4 mt-0 title">About</div>
-              <p>Hi, I’m @edu5975 My name is Eduardo Rico</p>
+              <div class="h4 mt-0 title">Acerca de mi</div>
+              <p>Hola, soy @edu5975 mi nombre es Eduardo Rico</p>
               <p>
-                I like programming since I was 14 years old. I am
-                currently studying computer systems engineering and I am
-                close to finishing my studies. I like to program in web
-                and mobile technologies. Currently I am learning dart,
-                flutter for mobile and vue.js together with node.js with
-                express for web pages.
+                Me gusta programar desde los 14 años. Soy Ingeniero en Sistemas Computacionales.
+                Me gusta programar páginas web y tecnologías móviles. Actualmente estoy aprendiendo dart,
+                flutter para dispositivos móviles y vue.js junto con node.js con Express para páginas web.
               </p>
             </div>
           </div>
           <div class="col-lg-4 col-md-12">
             <div class="card-body">
-              <div class="h4 mt-0 title">Basic Information</div>
+              <div class="h4 mt-0 title">Información básica</div>
               <div class="row">
                 <div class="col-sm-5">
-                  <strong class="text-uppercase">Age:</strong>
+                  <strong class="text-uppercase">Edad:</strong>
                 </div>
-                <div class="col-sm-7">21</div>
+                <div class="col-sm-7">22</div>
               </div>
               <div class="row mt-3">
                 <div class="col-sm-5">
@@ -38,7 +35,7 @@
               </div>
               <div class="row mt-3">
                 <div class="col-sm-5">
-                  <strong class="text-uppercase">Phone:</strong>
+                  <strong class="text-uppercase">Telefono:</strong>
                 </div>
                 <div class="col-sm-7">
                   <a href="tel:+524611842703">+524611842703</a>
@@ -46,9 +43,9 @@
               </div>
               <div class="row mt-3">
                 <div class="col-sm-5">
-                  <strong class="text-uppercase">Language:</strong>
+                  <strong class="text-uppercase">Idiomas:</strong>
                 </div>
-                <div class="col-sm-7">Spanish, English</div>
+                <div class="col-sm-7">Español, Inglés</div>
               </div>
             </div>
           </div>
@@ -74,7 +71,7 @@ export default {
   data: function () {
     return {
       hobbies:[
-          'Programming','Videogames','Swimming','Ciclyng','Running'
+          'Programador','Videojuegos','Natación','Ciclismo','Correr'
       ]
     }
   }
